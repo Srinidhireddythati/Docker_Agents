@@ -1,0 +1,11 @@
+Food,Quantity,Price,Customer,Location,Total Price
+Salad,3,10.49,Charlie,Table 3,31.47
+Pizza,1,8.99,Eve,Takeaway,8.99
+Burger,2,5.99,Alice,Delivery,11.98
+Pizza,5,8.99,Bob,Table 1,44.95
+Salad,4,10.49,David,Table 2,41.96
+Pasta,1,12.99,Eve,Takeaway,12.99
+Salad,2,10.49,Bob,Delivery,20.98
+Burger,3,5.99,Charlie,Table 2,17.97
+Pasta,1,12.99,Alice,Delivery,12.99
+Sushi,2,15.99,David,Takeaway,31.98
