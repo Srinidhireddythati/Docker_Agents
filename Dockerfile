@@ -32,7 +32,7 @@ EXPOSE 8501
 ENV CSV_FILE=/app/sample_dataset.csv
 
 # Command to run your Python script
-CMD ["python", "agents.py", "--csv", "/app/sample_dataset.csv"]
+CMD ["python", "main.py", "--csv", "/app/sample_dataset.csv"]
 
 
 #This app is created inside the docker(image/container) to keep track of all lib and codes
